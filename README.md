@@ -1,6 +1,6 @@
 # Desafio-DIO Primeiro Repositório.
 
-### 	Olá, esse é meu primeiro repositório no GitHub 😁e esse é meu primeiro Repositório.
+### 	Olá, meu nome é Thomas Medeiros 😁 e esse é meu primeiro Repositório no GitHub.
 
 
 
