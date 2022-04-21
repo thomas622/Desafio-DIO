@@ -1,13 +1,6 @@
-# Desafio-DIO
-Desafio Dio 1
+# Desafio-DIO Primeiro Repositório.
 
-## Meu primeiro repositório no GitHub 😁
-
-# Olá Mundo!
-
-## Olá Mundo!
-
-### Olá Mundo!
+### 	Olá, esse é meu primeiro repositório no GitHub 😁e esse é meu primeiro Repositório.
 
 
 
